@@ -1,2 +1,2 @@
-https://osmanenayat.github.io/CSS-My-Site/
+https://aka-eloquence.github.io/CSS-My-Site/
 # CSS-My-Site
